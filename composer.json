@@ -1,0 +1,16 @@
+{
+    "name": "javai7u/unit",
+    "description": "Proyecto para generar pruebas",
+    "type": "phpunit",
+    "require": { },
+    "authors": [
+        {
+            "name": "daniloCorvus",
+            "email": "danilo.grisalez@corvuslab.co"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
